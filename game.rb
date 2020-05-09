@@ -3,7 +3,7 @@ require 'ruby2d'
 set background: 'blue'
 set title: 'Reaction Clicker'
 
-start_message = Text.new('Reaction Clicker!  Click to Start!')
+start_message = Text.new('Reaction Clicker!  Click to Start!', x: 20, y: 20)
 game_started = false
 circle = nil
 start_time = nil
