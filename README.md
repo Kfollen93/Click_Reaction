@@ -2,4 +2,4 @@
 
 See how fast you can click on the circle.
 
-![screenshot](/Reaction_Screenshot.png)
+![screenshot](/Screenshot.png)
